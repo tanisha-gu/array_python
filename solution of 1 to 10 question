@@ -1,0 +1,62 @@
+from array import *
+
+# 1. Create and print array
+arr = array("i", [1, 2, 3, 4, 5])
+print(arr)
+
+
+# 2. Print each element
+s = array("i", [1, 3, 5, 7])
+
+for i in range(len(s)):
+    print(s[i])
+
+
+# 3. Find length
+print(len(s))
+
+
+# 4. Print first element
+print(s[0])
+
+
+# 5. Print last element
+print(s[-1])
+
+
+# 6. Reverse array
+s.reverse()
+print(s)
+
+
+# 7. Find sum
+total = 0
+
+for i in range(len(s)):
+    total += s[i]
+
+print(total)
+
+
+# 8. Count elements
+print(len(s))
+
+
+# 9.Find the largest element
+largest = s[0]
+
+for i in range(len(s)):
+    if s[i] > largest:
+        largest = s[i]
+
+print(largest)
+
+
+# 10.Count how many elements are present
+count = 0
+
+for i in range(len(s)):
+    count += 1
+
+print(count)
+
