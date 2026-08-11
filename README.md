@@ -2,7 +2,7 @@
 A structured collection of Array DSA problems and solutions, covering everything from beginner to advanced level.
 
 
-### 🟢 Level 1 — Very Basic
+###  Level 1 — Very Basic
 
 1. Create an array containing `1, 2, 3, 4, 5` and print it.
 
@@ -24,7 +24,7 @@ A structured collection of Array DSA problems and solutions, covering everything
 
 10. Count how many elements are present in an array.
 
-### 🟡 Level 2 — Basic Practice
+###  Level 2 — Basic Practice
 
 11. Create an array and check whether `10` exists in it.
 
@@ -52,7 +52,7 @@ arr = array('i', [2, 5, 10, 15, 20])
 
 20. Print only the even numbers from an array.
 
-### 🔵 Level 3 — Interview Beginner
+###  Level 3 — Interview Beginner
 
 21. Print only the odd numbers.
 
