@@ -1,4 +1,6 @@
 from array import *
+# for all array lab
+#all for array logic as a new person in coding
 
 # 1. Create and print array
 arr = array("i", [1, 2, 3, 4, 5])
